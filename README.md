@@ -133,8 +133,8 @@ This assignment will be evaluated against the requirements and assigned a grade 
 ![Quarter 3:](Data/vba_challenge_q3_results.jpg)
 ![Quarter 4:](Data/vba_challenge_q4_results.png)
 
-- Link to Excel file Multiple_year_stock_data.xlsm
-[File:](Data/Multiple_year_stock_data.xlsm)
+- Link to Excel file:
+[Multiple_year_stock_data.xlsm](Data/Multiple_year_stock_data.xlsm)
 
-- The following link is the export Excel module basStockwhich contains the VBA source code.
-[Module:](Data/basStock.vbs)
+- Link to VBA source code:
+[basStock.vbs](Data/basStock.vbs)
